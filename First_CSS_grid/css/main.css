@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding:0;			}
+
+	header{background-color: violet;
+		padding-top:50px;
+		padding-bottom:50px;
+		text-align: center;
+	}
+
+main{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+
+a{	display:block;
+	color:white;
+	text-decoration: none;
+	padding:5px;
+	font-size:1.2em;
+	}
+
+
+
+	nav{
+		background-color: cornflowerblue;
+		text-align:center;
+	}
+
+article{
+		padding-top:50px;
+	}
+	
+	aside{
+		background-color: cornflowerblue;
+		text-align:center;
+		color:white;
+		padding-top:50px;
+	}
