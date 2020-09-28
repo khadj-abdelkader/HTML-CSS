@@ -1,0 +1,51 @@
+header{
+    display:inline-block;
+    vertical-align:top;
+    width:30%;
+    background-color: whitesmoke;
+	  }
+
+main{
+    display:inline-block;
+    vertical-align:top;
+    width:60%;
+    margin-left:8%;
+    
+	}
+
+section{
+    margin-bottom:20px;
+	   }
+
+li img{
+    width:20px;
+    display:inline-block;
+    vertical-align:middle;
+	  }
+
+li p{
+    display:inline-block;
+    vertical-align:middle;
+	}
+
+	li{
+    list-style-type:none;
+	  }
+
+article{
+    background-color: whitesmoke;
+    padding:10px;
+    margin-bottom:20px;
+}
+
+footer{
+    height:100px;
+    background:darkcyan;
+    color:white;
+    text-align:center;
+    padding-top:20px;
+	  }
+
+.picture{
+	width:100%;
+}
