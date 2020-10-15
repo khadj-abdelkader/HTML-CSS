@@ -1,0 +1,29 @@
+*{
+	padding:0;
+
+	}
+
+
+div {
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+   align-content: center;
+
+	   }
+
+.bgcolor {
+
+			background-color: #CECECE
+
+			}
+
+
+
+h1{
+
+	font-family: 'Sansita Swashed', cursive;
+	
+	}
